@@ -1,0 +1,6 @@
+[submodule "arcade/snake"]
+	path = arcade/snake
+	url = git@github.com:sameer-manek/arcade_snake
+[submodule "arcade/sokoban"]
+	path = arcade/sokoban
+	url = git@github.com:sameer-manek/arcade_sokoban
