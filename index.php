@@ -14,7 +14,7 @@
 				<h1>Sameer Manek</h1>
 				<a href="#">About</a>
 				<a href="https://github.com/sameer-manek" target="__blank">Github</a>
-				<a href="mailto:sameermanek@outlook.com">Email</a>
+				<a href="mailto:iam@sameermanek.in">Email</a>
 			</div>
 		</header>
 
