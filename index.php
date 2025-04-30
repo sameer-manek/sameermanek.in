@@ -24,7 +24,7 @@
 			<div class="container">
 				<div class="section">
 					<h3># Overview</h3>
-					<p>Hello, Thanks for visiting my small place on the Internet. I am a programmer who knows some stuff about building websites, games and softwares in general. I will be using this website to write some blogs, upload some fun experiments / games using HTML and share updates on my life.</p>
+					<p>Hello, Thanks for visiting my small place on the Internet. I am a programmer who knows some stuff about building websites, games and softwares in general. I run a small consultancy in India called <a href="https://axiomsoftware.co.in/" target="_blank">Axiom Software & IT services</a>. I will be using this website to write some blogs, upload some fun experiments / games using HTML and share updates on my life.</p>
 					<p><b>NOTE:</b> This website is pretty much in development, expect more things coming up soon.</p>
 				</div>
 
